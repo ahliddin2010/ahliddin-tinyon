@@ -1,0 +1,489 @@
+#navigation-container-fluid{
+    background-color: #fcdb00;
+}
+#navibar{
+    border-bottom: #fcdb00;
+}
+#navigationcollapse{
+    background-color: #fcdb00;
+}
+#navigationcollapse ul{
+    font-size: 25px;
+    font-family:"PTSans";
+    margin: 20px auto auto auto;
+}
+#navigationcollapse li{
+    padding-left: 30px;
+}
+#id1 li a{
+    color: #010101;
+}
+#top{
+    background-color: #fcdb00;
+}
+.container{
+    margin: 20px auto 20px auto;
+}
+#toprow2{
+    margin: 40px 0px 60px 0px;
+}
+#toprow2col1{
+    font-family:"PTSans";
+    padding: 90px 0px 0px 0px;
+}
+.p1{
+    margin: 10px 0px 10px 0px;
+    font-weight: bold;
+    font-size: 28px;
+    color: #010101;
+}
+.p2{
+    margin: 10px 0px 10px 0px;
+    font-size: 23px;
+    color: #010101;
+}
+.p3{
+    margin: 10px 0px 10px 0px;
+    font-size: 21px;
+    color: #555555;
+}
+#bullets{
+    text-align: center;
+    margin: 20px 0px 0px 0px;
+}
+#mid{
+    background-color: #ffffff;
+}
+#midrow1{
+    margin: 20px 0px 30px 0px;
+    font-family:"PTSans";
+    text-align: center;
+}
+#midrow2{
+    margin: 20px 0px 45px 0px;
+}
+#midrow2 .row{
+    margin-top: 40px;
+}
+#midrow2 li{
+    margin: 0px 0px 15px 0px;
+    display: inline-block;
+}
+#midrow2 strong{
+    font-size: 20px;
+}
+#midrow2strong{
+    padding: 0px 0px 0px 55px;
+}
+.p4{
+    margin: 30px 0px 10px 0px;
+    font-weight: bold;
+    font-size: 28px;
+    color: #010101;
+}
+.p5{
+    margin: 10px 0px 20px 0px;
+    font-size: 21px;
+    color: #010101;
+}
+#bot{
+    background-color: #010101;
+}
+#botrow1{
+    text-align: center;
+}
+#botrow1 .p6{
+    margin: 30px 0px 10px 0px;
+    font-family:"PTSans";
+    font-weight: bold;
+    font-size: 28px;
+    color: #fcdb00;
+}
+#botrow1 .p7{
+    margin: 10px 0px 35px 0px;
+    font-family:"PTSans";
+    font-size: 21px;
+    color: #646464;
+}
+#botrow2{
+    text-align: center;
+}
+#botrow3{
+    margin: 30px auto 20px auto;
+    text-align: center;
+}
+#botrow3 li{
+    margin: 50px 0px 30px 0px;
+    display: inline-block;
+    padding: 15px;
+}
+#botrow4{
+    text-align: center;
+}
+#botrow5 li{
+    display: inline-block;
+    color: #ffffff;
+    margin: 50px 0px 30px 0px;
+}
+.submitbar{
+    width: 588px;
+    height: 55px;
+    font-size: 15px;
+    padding: 2px 0px 0px 20px;
+    background-color: white;
+    margin-left: 2px;
+    margin-top: 7px;
+    border-radius: 7px;
+    border: 3px solid black;
+}
+.submitbutton{
+    margin: 0px 0px 0px 13px;
+    height:55px;
+    width:125px;
+    font-size: 15px;
+    color:black;
+    cursor: pointer;
+    background-color: #fcdb00;
+    border-radius: 7px;
+    border: 3px solid black;
+}
+.hbutton .dropdown-menu{
+    display: none;
+}
+@media only screen and (max-width: 767px){
+    .container{
+        margin: 10px auto 5px auto;
+    }
+    #navigation-container-fluid{
+        border-bottom: #fcdb00;
+    }
+    #navigationcollapse{
+        border-top: 0px;
+        background-color: #fcdb00;
+    }
+    #navigationcollapse ul{
+        font-size: 25px;
+        font-family:"PTSans";
+        margin: auto auto auto auto;
+    }
+    #navigationcollapse li {
+        padding-left: 0px;
+    }
+    #navigationcollapse li a{
+        color: #010101;
+    }
+    .box1{
+        padding-top: 0px;
+         
+    }
+    #navibar{
+        background-color: #fcdb00;
+        margin-bottom: 0px;
+    }
+    #mobilebutton{
+        background-color: #fcdb00;
+        border: #fcdb00;
+        margin-top: 12px;
+    }
+    #navhead{
+        background-color: #fcdb00;
+    }
+    #toprow2{
+        margin: 65px 0px 0px 0px;
+    }
+    #toprow2col1{
+    font-family:"PTSans";
+    padding: 0px 0px 0px 0px;
+    top:270px;
+    }
+    .p1{
+        margin: 0px 0px 10px 0px;
+        font-weight: bolder;
+        font-size: 23px;
+        color: #010101;
+    }
+    .p2{
+        margin: 10px 0px 10px 0px;
+        font-size: 12px;
+        color: #010101;
+    }
+    .p3{
+        margin: 10px 0px 10px 0px;
+        font-size: 11px;
+        color: #555555;
+    }
+    .downloadbutton{
+        margin: 15px auto auto 45px;
+        size: 50%;
+    }
+    #bullets{
+        text-align: center;
+        margin: 0px 0px 0px 0px;
+        bottom: 20px;
+    }
+    #ipad{
+        margin: 30px auto auto 12px;
+        height:90%;
+        width:90%;
+    }
+    #ipadcol{
+        bottom: 300px;
+    }
+    #botrow1{
+        text-align: center;
+    }
+    #botrow1 .p6{
+        margin: 20px 0px 10px 0px;
+        font-family:"PTSans";
+        font-weight: bold;
+        font-size: 25px;
+        color: #fcdb00;
+    }
+    #botrow1 .p7{
+        margin: 10px 0px 5px 0px;
+        font-family:"PTSans";
+        font-size: 13px;
+        color: #646464;
+    }
+    #botrow2{
+        text-align: center;
+    }
+    #botrow3{
+        margin: 0px auto 0px auto;
+        text-align: center;
+        cursor: pointer;
+    }
+    #botrow3 li{
+        margin: 5px 0px 5px 0px;
+        display: inline-block;
+        padding: 5px;
+    }
+    #botrow4{
+        text-align: center;
+    }
+    #botrow5{
+        margin: 15px auto 15px auto;
+    }
+    #botrow5 li{
+        display: inline-block;
+        color: #ffffff;
+        margin: 5px 0px 5px 0px;
+    }
+    .submitbar{
+        width: 288px;
+        height: 55px;
+        font-size: 15px;
+        padding: 2px 0px 0px 20px;
+        background-color: white;
+        margin-left: 2px;
+        margin-top: 7px;
+        border-radius: 7px;
+        border: 3px solid black;
+    }
+    #midrow1{
+        margin: 0px 0px 0px 0px;
+        font-family:"PTSans";
+        text-align: center;
+    }
+    .p4{
+        margin: 0px 0px 10px 0px;
+        font-weight: bold;
+        font-size: 23px;
+        color: #010101;
+    }
+    .p5{
+        margin: 10px 0px 20px 0px;
+        font-size: 12px;
+        color: #010101;
+    }
+    #midrow2 .row{
+        display: block;
+        margin: 0px 0px 0px 0px;
+    }
+    #midrow2{
+        margin: 20px 0px 20px 0px;
+    }
+    #midrow2 li{
+        margin: 0px 0px 15px 0px;
+        display: inline-block;
+        font-size: 10px;
+    }
+    #midrow2 strong{
+        font-size: 15px;
+    }
+    #midrow2strong{
+        padding: 0px 0px 0px 55px;
+    }
+    .submitbutton{
+        margin: 0px 0px 0px 0px;
+        height:50px;
+        width:115px;
+        font-size: 15px;
+        color:black;
+        cursor: pointer;
+        background-color: #fcdb00;
+        border-radius: 7px;
+        border: 3px solid black;
+    }
+    #navigationcollapse li{
+        padding: none;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .container{
+        margin: 20px auto 5px auto;
+    }
+    #navigation-container-fluid{
+        border-bottom: #fcdb00;
+    }
+    #navigationcollapse{
+        background-color: #fcdb00;
+    }
+    #navigationcollapse ul{
+        font-size: 25px;
+        font-family:"PTSans";
+        margin: 20px auto auto auto;
+    }
+    #navigationcollapse li{
+        padding-left: 10px;
+    }
+    #ipadcol{
+        bottom: 350px;
+        text-align: center;
+    }
+    #toprow2col1{
+        font-family:"PTSans";
+        padding: 0px 0px 0px 0px;
+        top:490px;
+        text-align: center;
+    }
+    .p1{
+        margin: 0px 0px 10px 0px;
+        font-weight: bolder;
+        font-size: 33px;
+        color: #010101;
+    }
+    .p2{
+        margin: 10px 0px 10px 0px;
+        font-size: 18px;
+        color: #010101;
+    }
+    .p3{
+        margin: 10px 0px 10px 0px;
+        font-size: 18px;
+        color: #555555;
+    }
+    .downloadbutton{
+        height: 100%;
+        width: 100%;
+        
+    }
+    #bullets{
+        text-align: center;
+        margin: 0px 0px 0px 0px;
+        bottom: 25px;
+    }
+    #ipad{
+       
+        height:30px;
+        width:20px;
+    }
+    #midrow1{
+        margin: 0px 0px 0px 0px;
+        font-family:"PTSans";
+        text-align: center;
+    }
+    .p4{
+        margin: 0px 0px 10px 0px;
+        font-weight: bold;
+        font-size: 33px;
+        color: #010101;
+    }
+    .p5{
+        margin: 10px 0px 20px 0px;
+        font-size: 18px;
+        color: #010101;
+    }
+    #midrow2{
+        display: block;
+        margin: 20px auto 20px auto;
+    }
+    #midrow2 .row{
+        display: block;
+        margin: auto auto auto 150px;
+    }
+    #midrow2 li{
+        margin: 0px 0px 15px 0px;
+        display: inline-block;
+    }
+    #midrow2 strong{
+        font-size: 20px;
+    }
+    #midrow2strong{
+        padding: auto auto auto 55px;
+    }
+    #botrow1{
+        text-align: center;
+    }
+    #botrow1 .p6{
+        margin: 30px 0px 10px 0px;
+        font-family:"PTSans";
+        font-weight: bold;
+        font-size: 33px;
+        color: #fcdb00;
+    }
+    #botrow1 .p7{
+        margin: 10px 0px 20px 0px;
+        font-family:"PTSans";
+        font-size: 18px;
+        color: #646464;
+    }
+    #botrow2{
+        text-align: center;
+    }
+    .submitbar{
+        width: 90%;
+        height: 55px;
+        font-size: 15px;
+        padding: 2px 0px 0px 20px;
+        background-color: white;
+        margin-left: 2px;
+        margin-top: 7px;
+        border-radius: 7px;
+        border: 3px solid black;
+    }
+    .submitbutton{
+        margin: 10px auto 0px auto;
+        height:52px;
+        width:115px;
+        font-size: 15px;
+        color:black;
+        cursor: pointer;
+        background-color: #fcdb00;
+        border-radius: 7px;
+        border: 3px solid black;
+    }
+    #botrow3{
+        margin: 20px auto 20px auto;
+        text-align: center;
+    }
+    #botrow3 li{
+        margin: 7px 0px 7px 0px;
+        display: inline-block;
+        padding: 10px;
+    }
+    #botrow4{
+        text-align: center;
+    }
+    #botrow5{
+        margin: 15px auto 15px auto;
+    }
+    #botrow5 li{
+        display: inline-block;
+        color: #ffffff;
+        margin: 5px 0px 5px 0px;
+    }
+}
+.navbar-right {
+    margin-right: 200px;
+}
